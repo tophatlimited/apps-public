@@ -5,7 +5,7 @@
   "plants": [
     {
       "type": "asparagus",
-      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/lettuce.png",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/asparagus.png",
       "symbols": ["fertilizer", "mulch", "pruning-shears"]
     },
     {
