@@ -1,0 +1,24 @@
+{
+  "name": "Red and ready",
+  "description": "Try to claim plants that normally would yield red colored produce.",
+  "headerImage": "https://example.com/images/challenge-0001-header.png",
+  "plants": [
+    {
+      "type": "strawberry",
+      "image": "https://example.com/images/strawberry.png",
+      "symbols": ["watering-can", "watering-can", "mulch"]
+    },
+    {
+      "type": "tomato",
+      "image": "https://example.com/images/tomato.png",
+      "symbols": ["watering-can", "mulch", "stake"]
+    },
+    {
+      "type": "red-pepper",
+      "image": "https://example.com/images/red-pepper.png",
+      "symbols": ["watering-can", "mulch", "pruning-shears"]
+    }
+  ],
+  "maxRolls": 4,
+  "difficulty": 2
+}
