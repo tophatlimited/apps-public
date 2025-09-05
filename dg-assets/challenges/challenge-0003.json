@@ -1,0 +1,24 @@
+{
+  "name": "Rooting for You",
+  "description": "Go for the hidden gems and claim the plants that grow underground.",
+  "headerImage": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/rooting_for_you.png",
+  "plants": [
+    {
+      "type": "carrot",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/carrot.png",
+      "symbols": ["watering-can", "mulch"]
+    },
+    {
+      "type": "potato",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/potato.png",
+      "symbols": ["hoe", "watering-can", "mulch"]
+    },
+    {
+      "type": "radish",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/radish.png",
+      "symbols": ["fleece", "mulch", "trowel"]
+    }
+  ],
+  "maxRolls": 3,
+  "difficulty": 10
+}

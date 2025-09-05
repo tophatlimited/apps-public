@@ -1,0 +1,24 @@
+{
+  "name": "Berry Good",
+  "description": "Claim the bush-grown fruits and master a variety of symbols.",
+  "headerImage": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/berry_good.png",
+  "plants": [
+    {
+      "type": "raspberry",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/raspberry.png",
+      "symbols": ["pruning-shears", "gloves", "trellis"]
+    },
+    {
+      "type": "blueberry",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/blueberry.png",
+      "symbols": ["bird-net", "watering-can"]
+    },
+    {
+      "type": "blackberry",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/blackberry.png",
+      "symbols": ["bird-net", "pruning-shears"]
+    }
+  ],
+  "maxRolls": 2,
+  "difficulty": 18
+}

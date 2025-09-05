@@ -1,0 +1,24 @@
+{
+  "name": "Green Thumbs",
+  "description": "Prove your planting prowess by claiming common leafy green plants.",
+  "headerImage": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/green_thumbs.png",
+  "plants": [
+    {
+      "type": "asparagus",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/lettuce.png",
+      "symbols": ["fertilizer", "mulch", "pruning-shears"]
+    },
+    {
+      "type": "spinach",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/spinach.png",
+      "symbols": ["watering-can", "fleece"]
+    },
+    {
+      "type": "cabbage",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/cabbage.png",
+      "symbols": ["fertilizer", "mulch", "insect-net"]
+    }
+  ],
+  "maxRolls": 5,
+  "difficulty": 5
+}

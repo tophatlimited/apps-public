@@ -1,21 +1,21 @@
 {
   "name": "Red and ready",
   "description": "Try to claim plants that normally would yield red colored produce.",
-  "headerImage": "https://example.com/images/challenge-0001-header.png",
+  "headerImage": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/red_and_ready.png",
   "plants": [
     {
       "type": "strawberry",
-      "image": "https://example.com/images/strawberry.png",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/strawberry.png",
       "symbols": ["watering-can", "watering-can", "mulch"]
     },
     {
       "type": "tomato",
-      "image": "https://example.com/images/tomato.png",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/tomato.png",
       "symbols": ["watering-can", "mulch", "stake"]
     },
     {
       "type": "red-pepper",
-      "image": "https://example.com/images/red-pepper.png",
+      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/red_bell_pepper.png",
       "symbols": ["watering-can", "mulch", "pruning-shears"]
     }
   ],
