@@ -5,17 +5,14 @@
   "plants": [
     {
       "type": "strawberry",
-      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/strawberry.png",
       "symbols": ["watering-can", "watering-can", "mulch"]
     },
     {
       "type": "tomato",
-      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/tomato.png",
       "symbols": ["watering-can", "mulch", "stake"]
     },
     {
-      "type": "red-pepper",
-      "image": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/red_bell_pepper.png",
+      "type": "red-bell-pepper",
       "symbols": ["watering-can", "mulch", "pruning-shears"]
     }
   ],
