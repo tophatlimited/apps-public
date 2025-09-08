@@ -1,7 +1,7 @@
 {
   "name": "Berry Good",
   "description": "Claim the bush-grown fruits and master a variety of symbols.",
-  "headerImage": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/berry_good.png",
+  "headerImage": "challenges/images/berry_good.png",
   "plants": [
     {
       "type": "raspberry",

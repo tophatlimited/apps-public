@@ -1,0 +1,9 @@
+{
+  "id": "pot_3",
+  "name": "3 Pack of Pots",
+  "itemType": "pot",
+  "quantity": 3,
+  "description": "A set of 3 pots that can be used to temporarily hold plants until a plot becomes available.",
+  "price": 38,
+  "image": "shop/images/pots-3-pack.png"
+}

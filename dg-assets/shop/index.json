@@ -1,0 +1,52 @@
+{
+  "diceSets": {
+    "small_2": {
+      "basic": ["f_g"],
+      "standard": [],
+      "premium": [],
+      "deluxe": []
+    },
+    "standard_3": {
+      "basic": ["f_g_w", "f_w_w"],
+      "standard": ["f-m_g_w"],
+      "premium": ["f-m_g-w_tw"],
+      "deluxe": ["f-m_g-w_tw-in"]
+    },
+    "large_4": {
+      "basic": ["f_g_w_w"],
+      "standard": [],
+      "premium": [],
+      "deluxe": []
+    },
+    "extra_large_5": {
+      "basic": ["f_g_w_tw_h"],
+      "standard": [],
+      "premium": [],
+      "deluxe": []
+    }
+  },
+  "currency": ["1-80", "5-500", "10-1200", "20-3000"],
+  "plots": ["1x2", "1x3", "2x2", "2x3"],
+  "pots": ["1-pack", "3-pack", "5-pack"],
+  "diceFaceUpgrades": [
+    "trowel",
+    "watering-can",
+    "hoe",
+    "fertilizer",
+    "mulch",
+    "fleece",
+    "pruning-shears",
+    "insect-net",
+    "stake",
+    "stake_trowel",
+    "insect-net_bird-net",
+    "gloves",
+    "trellis",
+    "gloves_pruning-shears",
+    "gloves_trowel",
+    "trellis_stake",
+    "bird-net"
+  ],
+  "diceLocks": ["5-pack", "10-pack", "25-pack"],
+  "fertilizer": ["1-bag", "3-bag", "5-bag"]
+}

@@ -1,7 +1,7 @@
 {
   "name": "Rooting for You",
   "description": "Go for the hidden gems and claim the plants that grow underground.",
-  "headerImage": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/rooting_for_you.png",
+  "headerImage": "challenges/images/rooting_for_you.png",
   "plants": [
     {
       "type": "carrot",

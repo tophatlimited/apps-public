@@ -1,7 +1,7 @@
 {
   "name": "Red and ready",
   "description": "Try to claim plants that normally would yield red colored produce.",
-  "headerImage": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/red_and_ready.png",
+  "headerImage": "challenges/images/red_and_ready.png",
   "plants": [
     {
       "type": "strawberry",

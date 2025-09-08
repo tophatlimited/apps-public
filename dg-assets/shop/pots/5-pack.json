@@ -1,0 +1,9 @@
+{
+  "id": "pot_5",
+  "name": "5 Pack of Pots",
+  "itemType": "pot",
+  "quantity": 5,
+  "description": "A set of 5 pots that can be used to temporarily hold plants until a plot becomes available.",
+  "price": 48,
+  "image": "shop/images/pots-5-pack.png"
+}

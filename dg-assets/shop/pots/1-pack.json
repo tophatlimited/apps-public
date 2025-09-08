@@ -1,0 +1,9 @@
+{
+  "id": "pot_1",
+  "name": "A pot",
+  "itemType": "pot",
+  "quantity": 1,
+  "description": "A single pot that can be used to temporarily hold plants until a plot becomes available.",
+  "price": 24,
+  "image": "shop/images/pots-1-pack.png"
+}

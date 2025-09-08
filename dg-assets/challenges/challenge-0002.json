@@ -1,7 +1,7 @@
 {
   "name": "Green Thumbs",
   "description": "Prove your planting prowess by claiming common leafy green plants.",
-  "headerImage": "https://raw.githubusercontent.com/tophatlimited/apps-public/refs/heads/assets/dg-assets/images/green_thumbs.png",
+  "headerImage": "challenges/images/green_thumbs.png",
   "plants": [
     {
       "type": "asparagus",
