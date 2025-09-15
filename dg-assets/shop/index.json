@@ -1,11 +1,5 @@
 {
   "diceSets": {
-    "small_2": {
-      "basic": ["f_g"],
-      "standard": [],
-      "premium": [],
-      "deluxe": []
-    },
     "standard_3": {
       "basic": ["f_g_w", "f_w_w"],
       "standard": ["f-m_g_w"],

@@ -1,0 +1,55 @@
+{
+  "name": "Starter Dice Set",
+  "dice": [
+    {
+      "facePairs": {
+        "pair1": {
+          "face1": "watering-can",
+          "face2": "mulch"
+        },
+        "pair2": {
+          "face1": "insect-net",
+          "face2": null
+        },
+        "pair3": {
+          "face1": "watering-can",
+          "face2": null
+        }
+      }
+    },
+
+    {
+      "facePairs": {
+        "pair1": {
+          "face1": "watering-can",
+          "face2": "mulch"
+        },
+        "pair2": {
+          "face1": "fleece",
+          "face2": null
+        },
+        "pair3": {
+          "face1": "watering-can",
+          "face2": "pruning-shears"
+        }
+      }
+    },
+
+    {
+      "facePairs": {
+        "pair1": {
+          "face1": "fertilizer",
+          "face2": "stake"
+        },
+        "pair2": {
+          "face1": null,
+          "face2": null
+        },
+        "pair3": {
+          "face1": "watering-can",
+          "face2": null
+        }
+      }
+    }
+  ]
+}
